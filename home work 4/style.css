@@ -2,18 +2,20 @@
    display: inline-block;
    border-radius: 6%;
    margin:  8px;
-   padding: 3px;
+   padding: 10px;
    background-color: #ada660;
    box-sizing: border-box;
-width: 30%;
+max-width: 300px;
 border: solid #8d9160 3px;
 }
 
 .main{
    border: 2px solid black;  
    border-radius: 15px 0px  0px 15px;
-   width: 1000px;
-   height: 700px;
+   max-width: 1000px;
+   min-width: 500px;
+   max-height: 700px;
+   min-height: 400px;
    background-color: rgb(172, 175, 212);
    overflow: auto;
 }
