@@ -12,8 +12,6 @@ border: solid #8d9160 3px;
 .main{
    border: 2px solid black;  
    border-radius: 15px 0px  0px 15px;
-   max-width: 1000px;
-   min-width: 500px;
    max-height: 700px;
    min-height: 400px;
    background-color: rgb(172, 175, 212);
